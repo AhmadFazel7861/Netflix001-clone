@@ -11,7 +11,7 @@ Interactive FAQ section ❓
 Custom video integration 🎥
 This was a great opportunity to sharpen my front-end development skills, and I’m excited about the potential for adding more features down the line.
 
-Check it out here 👉 https://github.com/AhmadFazel786
+Check it out here 👉 https://ahmadfazel7861.github.io/video-clone/
 
 Feedback is always welcome—let’s connect and discuss!
 
